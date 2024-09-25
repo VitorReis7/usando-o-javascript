@@ -25,7 +25,7 @@ mensagem.style.display = 'none'; // Inicialmente oculto
 
 // Adiciona um evento de clique ao botão
 botao.addEventListener('click', function() {
-    mensagem.innerText = 'Cruzeiro melhor time do mundo, pena que não tem time de basquete do cruzeiro!';
+    mensagem.innerText = 'Cruzeiro melhor time do mundo e ainda tem time de basquete!';
     mensagem.style.display = 'block'; // Torna o parágrafo visível
 });
 
